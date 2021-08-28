@@ -1,8 +1,7 @@
 /**
  * Allow the user the ability to enter two fractions. Add the two fractions
  * without reducing the result. Output the inputted fractions and the result.
- * The inputted fractions have one space before and after the /. The output
- * has no spaces in each fraction.
+ * The inputted fractions have one space before and after the /.
  *
  * @author
  *
